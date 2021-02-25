@@ -1,0 +1,37 @@
+.ant-menu {
+    .ant-menu-item-group-title {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: -0.015em;
+        color: var(--gray);
+        padding: 8px 36px;
+    }
+    li.ant-menu-item-group {
+        margin-bottom: 75px;
+        ul.ant-menu-item-group-list {
+            margin: 0 18px;
+        }
+    }
+    .ant-menu-item {
+        font-weight: 500;
+        letter-spacing: -0.012em;
+        font-size: 15px;
+        color: var(--menu-color);
+        border-radius: 18px;
+        &:hover {
+            color: var(--menu-color-hover);
+        }
+        &:after {
+            border-right: 0;
+        }
+    }
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background: var(--theme-color);
+    color: var(--menu-color-selected);
+}
+.ant-switch {
+    float: right;
+    margin-top: 10px;
+}

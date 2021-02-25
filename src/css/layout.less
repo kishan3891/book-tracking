@@ -1,0 +1,103 @@
+.col-4dot8,
+.col-sm-4dot8,
+.col-md-4dot8,
+.col-lg-4dot8,
+.col-xl-4dot8 {
+   position: relative;
+   width: 100%;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+}
+.col-4dot8 {
+   -webkit-box-flex: 0;
+   -ms-flex: 0 0 20%;
+   flex: 0 0 20%;
+   max-width: 20%;
+   @media only screen and (max-width:767px) {
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      max-width: 50%;
+   }
+}
+
+.ant-layout {
+    background: var(--theme-color);
+    &.main-right-container {
+        border-left: 1px solid var(---left-sidebar-border);
+    }
+    .ant-layout-header {
+        height: auto;
+        padding: 36px 30px 18px;
+        color: rgba(0, 0, 0, 0.85);
+        line-height: normal;
+        background: var(--theme-color);
+        border-bottom: 1.5px solid var(--header-border-color);
+        h1 {
+            margin: 0
+        }
+    }
+    .ant-layout-content {
+        margin: 30px!important;
+    }
+    .ant-layout-sider {
+        background: var(--left-sidebar-bg);
+        border: 3px solid var(--theme-color);
+        transition: none;
+        z-index: 10;
+        .ant-layout-sider-children {
+            padding-top: 10px;
+        }
+        .ant-menu {
+            background: var(--left-sidebar-bg);
+            border: 0;
+            transition: none;
+        }
+    }
+}
+.book-col {
+    .book-col-image-wrapper {
+        position: relative;
+        margin-bottom: 18px;
+        .book-col-percentage,
+        .book-col-genre {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+            z-index: 9;
+            background: rgba(255, 255, 255, 0.1666);
+            backdrop-filter: blur(6px);
+            border-radius: 12px;
+            color: var(--genre-color);
+            padding: 9px 18px;
+            font-weight: 600;
+            font-size: 12px;
+            line-height: 18px;
+        }
+        .book-col-genre {
+            font-size: 15px;
+            line-height: 24px;
+            letter-spacing: -0.012em;
+            top: auto;
+            bottom: 18px;
+            left: auto;
+            right: 18px;
+            background: rgba(0, 0, 0, 0.6666);
+        }
+    }
+    h3 {
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: -0.015em;
+        margin: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    p {
+        margin: 0;
+    }
+}
+.ant-switch-handle::before {
+    background-color: var(--swith-bg-color);
+}

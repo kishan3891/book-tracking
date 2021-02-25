@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Faith",
+        "author": "Marijn Haverbeke",
+        "percentage": 72,
+        "image": "/book-images/BookCoverImage1.png",
+        "genre": "Fiction",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "The World of Ice & Fire",
+        "author": "George R. R. Martin",
+        "percentage": 42,
+        "image": "/book-images/BookCoverImage2.png",
+        "genre": "Fantasy",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "percentage": 12,
+        "image": "/book-images/BookCoverImage3.png",
+        "genre": "Education",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "Wild Wisdom",
+        "author": "Neil Douglas-Klotz",
+        "percentage": 100,
+        "image": "/book-images/BookCoverImage4.png",
+        "genre": "Adventure",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "The Sky at Night: How to",
+        "author": "Chris North & Paul Abel",
+        "percentage": 54,
+        "image": "/book-images/BookCoverImage5.png",
+        "genre": "Science",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "Into Thin Air",
+        "author": "Jon Krakauer",
+        "percentage": 30,
+        "image": "/book-images/BookCoverImage5.png",
+        "genre": "Nature",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "Humans",
+        "author": "Brandon Stanton",
+        "percentage": 6,
+        "image": "/book-images/BookCoverImage4.png",
+        "genre": "Fantasy",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "Wonders of the World",
+        "author": "Lonely Planet",
+        "percentage": 90,
+        "image": "/book-images/BookCoverImage3.png",
+        "genre": "Education",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "Paint a New Scene",
+        "author": "Deirdre O’Dare",
+        "percentage": 54,
+        "image": "/book-images/BookCoverImage2.png",
+        "genre": "Romance",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    },
+    {
+        "title": "Along the Enchanted Way",
+        "author": "William Blacker",
+        "percentage": 18,
+        "image": "/book-images/BookCoverImage1.png",
+        "genre": "Travel",
+        "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+    }
+]
